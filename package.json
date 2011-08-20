@@ -1,0 +1,19 @@
+{
+  "author": "Jaakko-Heikki Heusala <jheusala@iki.fi> (http://www.jhh.me)",
+  "name": "zdb",
+  "description": "Event-driven Native Database for Node.js",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jheusala/node-zdb.git"
+  },
+  "main": "src",
+  "engines": {
+    "node": "~v0.4.10"
+  },
+  "dependencies": {
+    "socket.io": "*",
+    "socket.io-client": "*"
+  },
+  "devDependencies": {}
+}
